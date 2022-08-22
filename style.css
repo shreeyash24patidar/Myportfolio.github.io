@@ -375,8 +375,8 @@ section .title::after{
     content: "Achivement";
 }
 .certificate .carousel .card{
-    background:  darkgrey;
-    border-radius: 6px;
+    background:   #270505;
+    border-radius: 56px;
     padding: 25px 35px;
     text-align: center;
     overflow: hidden;
